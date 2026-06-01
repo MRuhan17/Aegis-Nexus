@@ -302,7 +302,7 @@ function getAI(): GoogleGenAI | null {
         apiKey: key,
         httpOptions: {
           headers: {
-            'User-Agent': 'aistudio-build',
+            'User-Agent': 'aegis-nexus',
           }
         }
       });
