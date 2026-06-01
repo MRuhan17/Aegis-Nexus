@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Nexus",
+  "description": "An autonomous multi-agent strategic sandbox simulating emergent factions, diplomacy, conflict, trade, and AI-driven reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
